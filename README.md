@@ -1,9 +1,9 @@
-# ⚡ About Me:
+# ⚡ About Me : 
 🔨 I'm currently working on  DETAMS – a Digital Evidence Tracking & Management System built with Django and PostgreSQL<br><br>👥 I'm looking to collaborate on Backend projects involving REST APIs, secure system design, or anything combining Python/Java with real-world problem solving<br><br>🤝 I'm looking for help with Getting started with Machine Learning and understanding how to integrate AI/ML into backend systems<br><br>🌱 I'm currently learning Django REST Framework, Spring Boot advanced patterns, and exploring AI/ML fundamentals<br><br>💬 Ask me about Backend development, RBAC systems, Django, Spring Boot, PostgreSQL, or DSA problem solving<br><br>💫 Fun fact I find debugging a tricky backend bug more satisfying than any exam 😄
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_manav31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavjoshi31) [![](https://img.shields.io/badge/X-black.svg?logo=X)](https://x.com/manavjoshi313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manavjoshi313@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manavjoshi31) [![](https://img.shields.io/badge/X-black.svg?logo=X)](https://x.com/manavjoshi313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manavjoshi313@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_manav31)
 
 # 💻 Tech Stack:
 
