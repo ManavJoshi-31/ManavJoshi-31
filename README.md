@@ -184,15 +184,11 @@ A web-based forensic evidence platform that keeps digital evidence tamper-eviden
 ## GitHub Analytics
 
 
-<!-- <img src="https://github-readme-stats-kwk4ru19c-curiousbrain.vercel.app/api?username=ManavJoshi-31&show_icons=true&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats-kwk4ru19c-curiousbrain.vercel.app/api?username=ManavJoshi-31&show_icons=true&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180" alt="GitHub Stats" /> -->
 
-<img src="https://streak-stats.demolab.com/?user=ManavJoshi-31&background=0D1117&border=4C1D95&stroke=4338CA&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6" height="180" alt="GitHub Streak" /> -->
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=ManavJoshi-31&theme=tokyonight&hide_border=true"/>
-
-</div>
+ <div align="center">
+ <img src="https://streak-stats-manav.vercel.app?user=ManavJoshi-31&theme=midnight-purple&background=0D1117&border=4C1D95&stroke=4338CA&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6" height="180" alt= "GitHub Streak"/> 
+</div> 
 
 
 ## Contribution Activity
