@@ -192,32 +192,21 @@ A web-based forensic evidence platform that keeps digital evidence tamper-eviden
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ManavJoshi-31&show_icons=true&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-kwk4ru19c-curiousbrain.vercel.app/api?username=ManavJoshi-31&show_icons=true&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180" alt="GitHub Stats" />
+
 <img src="https://streak-stats.demolab.com/?user=ManavJoshi-31&background=0D1117&border=4C1D95&stroke=4338CA&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6" height="180" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManavJoshi-31&layout=compact&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&text_color=C4B5FD" height="160" alt="Top Languages" />
+<img src="https://github-readme-stats-n3u06wxy9-curiousbrain.vercel.app/top-langs/?username=ManavJoshi-31&layout=compact&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&text_color=C4B5FD" height="160" alt="Top Languages" />
 
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ManavJoshi-31&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ManavJoshi-31&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph-5qzbt7oqd-curiousbrain.vercel.app/graph?username=ManavJoshi-31&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
