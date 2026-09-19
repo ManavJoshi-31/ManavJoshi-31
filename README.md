@@ -20,11 +20,6 @@
 <a href="mailto:manavjoshi313@gmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/ManavJoshi-31"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ManavJoshi-31&label=Profile%20Views&color=4338CA&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/ManavJoshi-31?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B&color=6D28D9" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ManavJoshi-31/Secure-Project-Management---SpringBoot-REST-API-?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B&color=7C3AED&label=Stars" alt="Stars" />
 
 </div>
 
@@ -174,39 +169,37 @@ A web-based forensic evidence platform that keeps digital evidence tamper-eviden
 
 </div>
 
----
+
 
 ## Coding Profiles
 
+
 <div align="center">
-
-<a href="https://leetcode.com/manavjoshi31"><img src="https://img.shields.io/badge/LeetCode-manavjoshi31-4338CA?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B" alt="LeetCode" height="42" /></a>
-<img src="https://img.shields.io/badge/Problems%20Solved-250%2B-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="250+ Problems Solved" height="42" />
-<img src="https://img.shields.io/badge/Max%20Rating-1544-6D28D9?style=for-the-badge&labelColor=1E1B4B" alt="Max Rating 1544" height="42" />
-
+  <a href="https://leetcode.com/manavjoshi31">
+    <img src="https://leetcard.jacoblin.cool/manavjoshi31?theme=radical&font=Saira%20Condensed&ext=heatmap"/>
+  </a>
 </div>
 
----
 
 ## GitHub Analytics
 
+
+<!-- <img src="https://github-readme-stats-kwk4ru19c-curiousbrain.vercel.app/api?username=ManavJoshi-31&show_icons=true&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180" alt="GitHub Stats" />
+
+<img src="https://streak-stats.demolab.com/?user=ManavJoshi-31&background=0D1117&border=4C1D95&stroke=4338CA&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6" height="180" alt="GitHub Streak" /> -->
+
 <div align="center">
 
-<img src="https://github-readme-stats-kwk4ru19c-curiousbrain.vercel.app/api?username=ManavJoshi-31&show_icons=true&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com/?user=ManavJoshi-31&background=0D1117&border=4C1D95&stroke=4338CA&ring=8B5CF6&fire=A78BFA&currStreakNum=C4B5FD&sideNums=C4B5FD&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B5CF6" height="180" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-stats-n3u06wxy9-curiousbrain.vercel.app/top-langs/?username=ManavJoshi-31&layout=compact&hide_border=false&bg_color=0D1117&border_color=4C1D95&title_color=A78BFA&text_color=C4B5FD" height="160" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ManavJoshi-31&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 ## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph-5qzbt7oqd-curiousbrain.vercel.app/graph?username=ManavJoshi-31&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph-beta-five.vercel.app/graph?username=ManavJoshi-31&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -263,14 +256,19 @@ public class CurrentFocus {
 <a href="https://www.linkedin.com/in/manavjoshi31/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/ManavJoshi-31"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://leetcode.com/manavjoshi31"><img src="https://img.shields.io/badge/LeetCode-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-
+<center><img src="https://komarev.com/ghpvc/?username=ManavJoshi-31&label=Profile%20Views&color=4338CA&style=for-the-badge" alt="Profile Views" />
+</center>
 </div>
 
 ---
 
 <div align="center">
 
-<i>Build the backend so that authorization, ownership, and business rules remain enforced even when the client cannot be trusted.</i>
+<b><i>"The people who are crazy enough to think they can change the world are the ones who do."</i></b>
+<br>
+<sub>— Steve Jobs</sub>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4338CA,100:1E1B4B&height=120&section=footer" width="100%" alt="Footer" />
 
