@@ -88,7 +88,7 @@ public class PrimaryStack {
 ## Featured Projects
 
 <details open>
-<summary><b>FlowLedger</b> — Secure Financial Workflow & Budget Management Platform</summary>
+<summary><h2><b>FlowLedger</b> — Secure Financial Workflow & Budget Management Platform</h2></summary>
 
 <br>
 
@@ -105,8 +105,8 @@ A backend-focused platform that replaces email and spreadsheet approvals with a 
 
 </details>
 
-<details>
-<summary><b>Secure Project Management REST API</b> — Role-Based Project & Task Backend</summary>
+<details open>
+<summary><h2><b>Secure Project Management REST API</b> — Role-Based Project & Task Backend</h2></summary>
 
 <br>
 
@@ -123,8 +123,8 @@ A stateless Spring Boot API where organizations manage projects and tasks under 
 
 </details>
 
-<details>
-<summary><b>DETAMS</b> — Digital Evidence Tracking & Management System</summary>
+<details open>
+<summary><h2><b>DETAMS</b> — Digital Evidence Tracking & Management System</h2></summary>
 
 <br>
 
